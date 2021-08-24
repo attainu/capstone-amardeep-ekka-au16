@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Aashirvaad Whole Wheat Atta 10 kg',
     image: '/images/atta.jpg',
     description:
@@ -13,11 +12,10 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Amul Butter 500 g (Carton)',
     image: '/images/butter.jpg',
     description:
-      'Who doesn't like a chunk of creamy, velvety, smooth and mouth-watering butter? Made with fresh ingredients, Amul Butter is a multi-purpose butter that can be used as a spread on bread, paratha, roti, naan and sandwiches. It also makes an excellent topping for Pav-bhaji, dal, soups, salads, rice as well as a great cooking medium for Paneer Butter Masala, Dal Makhni and a variety of delightful recipes. So what are you waiting for? Buy this product online today!',
+      'Who doesnt like a chunk of creamy, velvety, smooth and mouth-watering butter? Made with fresh ingredients, Amul Butter is a multi-purpose butter that can be used as a spread on bread, paratha, roti, naan and sandwiches. It also makes an excellent topping for Pav-bhaji, dal, soups, salads, rice as well as a great cooking medium for Paneer Butter Masala, Dal Makhni and a variety of delightful recipes. So what are you waiting for? Buy this product online today!',
     brand: 'Amul',
     category: 'Dairy Products',
     price: 225.00,
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Britannia NutriChoice Hi-Fibre Digestive Biscuits 1 kg',
     image: '/images/biscuit.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 15,
   },
   {
-    _id: '4',
     name: 'Closeup Everfresh+ Anti-Germ Red Hot Gel Toothpaste 150 g (Pack of 2)',
     image: '/images/toothpaste.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Dabur Honey 1 kg',
     image: '/images/honey.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'iD Natural Creamy Thick Curd 400 g (Pouch)',
     image: '/images/curd.jpg',
     description:
@@ -78,11 +72,10 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '7',
     name: 'Kissan Mixed Fruit Jam 700 g',
     image: '/images/jam.jpg',
     description:
-      'Kissan Mixed Fruit Jam - This one's a delicious blend of fine fruits. A medley of flavours from the pulp of Banana, Papaya, Apple, Pear, Pineapple, Mango, Grape and Orange blended into one lip-smacking jam. Craving something utterly sweet? This is your answer to that in a packed bottle. So the next time you want to whip up a bread and Jam delight for your kids with an assortment of flavours, you know which bottle to dig into! Let's make breakfast and tiffins yummier with this mixed fruit jam. So go ahead, buy Kissan Mixed Fruit Jam online today!',
+      'Kissan Mixed Fruit Jam - This ones a delicious blend of fine fruits. A medley of flavours from the pulp of Banana, Papaya, Apple, Pear, Pineapple, Mango, Grape and Orange blended into one lip-smacking jam. Craving something utterly sweet? This is your answer to that in a packed bottle. So the next time you want to whip up a bread and Jam delight for your kids with an assortment of flavours, you know which bottle to dig into! Lets make breakfast and tiffins yummier with this mixed fruit jam. So go ahead, buy Kissan Mixed Fruit Jam online today!',
     brand: 'Kissan',
     category: 'Staples',
     price: 162.00,
@@ -91,7 +84,6 @@ const products = [
     numReviews: 17,
   },
   {
-    _id: '8',
     name: 'Madhur Pure & Hygienic Sugar 5 kg',
     image: '/images/sugar.jpg',
     description:
@@ -104,7 +96,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '9',
     name: 'Quaker Oats 1.5 kg',
     image: '/images/oats.jpg',
     description:
@@ -117,7 +108,6 @@ const products = [
     numReviews: 14,
   },
   {
-    _id: '10',
     name: 'Super Sarvottam Physically Refined 100% Rice Bran Oil 1 L',
     image: '/images/oil.jpg',
     description:
@@ -130,7 +120,6 @@ const products = [
     numReviews: 13,
   },
   {
-    _id: '11',
     name: 'Surf Excel Easy Wash Detergent Powder 4 kg',
     image: '/images/detergent.jpg',
     description:
@@ -143,7 +132,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '12',
     name: 'Surti Kolam Rice 10 kg',
     image: '/images/rice.jpg',
     description:
@@ -158,3 +146,4 @@ const products = [
 ]
 
 export default products
+
